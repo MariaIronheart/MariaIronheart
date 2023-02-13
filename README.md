@@ -2,7 +2,6 @@
 
 - 🔭 Sou estudante focada em Front-end
 - 🌱 Estou estudando Análise e desenvolvimento de sistemas 
-- 📫 Você pode ver mais sobre mim no: https://www.linkedin.com/in/maria-victória-santos-a45072176/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/MariaIronheart=anuraghazra&repo=github-readme-stats" />
