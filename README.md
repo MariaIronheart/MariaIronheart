@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Maria!
 
-- 🔭 Sou estudante focada em Front-end
+- 🔭 Sou estudante na área de TI
 - 🌱 Estou estudando Análise e desenvolvimento de sistemas 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
