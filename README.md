@@ -1,7 +1,7 @@
 ### Olá, eu me chamo Maria!
 
-- 🔭 Sou estudante na área de TI
-- 🌱 Estou estudando Análise e desenvolvimento de sistemas 
+- 🔭 Sou estudante na Análsie e Desenvolvimento de sistemas 
+- 🌱 Estou em busca do meu primeiro emprego na área
 
 
 <div style="display: inline_block"><br>
