@@ -13,7 +13,7 @@
 </div>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaIronheart&show_icons=true&theme=transparent)
   ##
  
 <div> 
