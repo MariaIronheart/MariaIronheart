@@ -1,9 +1,10 @@
-### Olá, eu me chamo Maria!
+### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> me chamo Maria!
 
 - 🔭 Sou estudante na Análsie e Desenvolvimento de sistemas 
 - 🌱 Estou em busca do meu primeiro emprego na área
 
-
+<br>
+## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -13,8 +14,12 @@
 </div>
 
 <br><br>
-  ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaIronheart&show_icons=true&theme=transparent)
-
+## ⚙️ &nbsp;GitHub Analytics
+ 
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=MariaIronheart&show_icons=true&theme=jolly"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIronheart&layout=compact&theme=jolly"/>
+  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIronheart&layout=compact&theme=jolly)
+ ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaIronheart&show_icons=true&theme=jolly)<br> -->
  
 <div> 
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
