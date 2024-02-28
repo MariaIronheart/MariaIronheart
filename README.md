@@ -18,8 +18,7 @@
  
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=MariaIronheart&show_icons=true&theme=jolly"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIronheart&layout=compact&theme=jolly"/>
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIronheart&layout=compact&theme=jolly)
- ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaIronheart&show_icons=true&theme=jolly)<br> -->
+
  
 <div> 
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
