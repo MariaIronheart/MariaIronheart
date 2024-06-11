@@ -1,33 +1,4 @@
-### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> me chamo Maria!
 
-- 🔭 Sou estudante na Análsie e Desenvolvimento de sistemas 
-- 🌱 Estou em busca do meu primeiro emprego na área
-
-<br>
-## 🛠 &nbsp;Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-<br><br>
-## ⚙️ &nbsp;GitHub Analytics
- 
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=MariaIronheart&show_icons=true&theme=jolly"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIronheart&layout=compact&theme=jolly"/>
-
- 
-<div> 
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vic_a4@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-victória-santos-a45072176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-------
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=🙋🏻‍♀️+Hi+there.+My+name+is+Maria+Victória+and+I+am+a+dev.)
 
@@ -51,7 +22,7 @@
 
 <br>
 
-  <img align="left" height="100" width="90" src="" />
+  <img align="left" height="100" width="90" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.precisaocortelaser.com.br%2Fcliente%2Fsenai%2Flogo-senai-2%2F&psig=AOvVaw2MwBqe-gAstuVNG7Fkp6N1&ust=1718212544667000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDXm9eG1IYDFQAAAAAdAAAAABAE" />
 
 
 ### Education ###
@@ -76,7 +47,7 @@
 <br>
 </div>
 
-
+<!-- 
 <div align=center>
 <img height="100em" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
-</div>
+</div> ->
