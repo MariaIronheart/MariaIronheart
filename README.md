@@ -22,7 +22,7 @@
 
 <br>
 
-  <img align="left" height="100" width="90" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.precisaocortelaser.com.br%2Fcliente%2Fsenai%2Flogo-senai-2%2F&psig=AOvVaw2MwBqe-gAstuVNG7Fkp6N1&ust=1718212544667000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDXm9eG1IYDFQAAAAAdAAAAABAE" />
+  <img align="left" height="100" width="90" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.precisaocortelaser.com.br%2Fcliente%2Fsenai%2Flogo-senai-2%2F&psig=AOvVaw2MwBqe-gAstuVNG7Fkp6N1&ust=1718212544667000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDXm9eG1IYDFQAAAAAdAAAAABAE](https://www.precisaocortelaser.com.br/wp-content/uploads/2020/07/logo-senai-1.png)" />
 
 
 ### Education ###
