@@ -8,7 +8,7 @@
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=MariaIronheart&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=MariaIronheart&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
 
- <img align="left" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ 
  
 <br>
 
