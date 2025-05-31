@@ -26,10 +26,13 @@
 
 
 ### Education ###
+  **UNINTER** \
+  Graduation in Software Engineering \
+  <i>Mar. 2025</i> - <i>Dez. 2028</i>
+
   **SENAI (Universidade Senai - Félix Guizard)** \
   Graduation in Information systems \
   <i>Jan. 2023</i> - <i>Dez. 2024</i>
-
   
   <br>
 
