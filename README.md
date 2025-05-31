@@ -22,12 +22,9 @@
 
 <br>
 
-  <img align="left" height="100" width="90" src="https://www.precisaocortelaser.com.br/wp-content/uploads/2020/07/logo-senai-1.png" />
-
-
-### Education ###
+### Education <br>
   **UNINTER** \
-  Graduation in Software Engineering \
+  Bachelor's degree in Software Engineering \
   <i>Mar. 2025</i> - <i>Dez. 2028</i>
 
   **SENAI (Universidade Senai - Félix Guizard)** \
